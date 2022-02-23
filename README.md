@@ -1,3 +1,5 @@
+# image-container is no longer actively maintained by VMware, Inc.
+
 # Spring XD Container
 This Docker image runs a Spring XD container in [distributed mode](http://docs.spring.io/spring-xd/docs/1.0.0.BUILD-SNAPSHOT/reference/html/#running-distributed-mode). It expects
 to connect to a ZooKeeper ensemble, an HSQLDB server and a Redis instance using
